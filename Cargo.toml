@@ -1,0 +1,11 @@
+[package]
+name = "ágora"
+description = "A simple, decentralized and peer-to-peer microblogging platform"
+keywords = ["simple", "decentralized", "peer-to-peer", "microblogging", "platform"]
+authors = ["Henry Barreto <me@henrybarreto.dev>"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
